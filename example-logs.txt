@@ -1,0 +1,60 @@
+[2024-11-30 01:47:17] local.INFO: Dispatching job 291.
+[2024-11-30 01:47:17] local.INFO: Starting job 291: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:47:17] local.INFO: Job 291 attempt 0/4.
+[2024-11-30 01:47:22] local.INFO: Job 291 completed.
+[2024-11-30 01:47:23] local.INFO: Dispatching job 294.
+[2024-11-30 01:47:23] local.INFO: Starting job 294: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:47:23] local.INFO: Job 294 attempt 0/3.
+[2024-11-30 01:47:28] local.INFO: Job 294 completed.
+[2024-11-30 01:47:29] local.INFO: Dispatching job 292.
+[2024-11-30 01:47:29] local.INFO: Starting job 292: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:47:29] local.INFO: Job 292 attempt 0/3.
+[2024-11-30 01:47:34] local.ERROR: Job 292 failed: This is a test exception
+[2024-11-30 01:47:35] local.INFO: Dispatching job 297.
+[2024-11-30 01:47:35] local.INFO: Starting job 297: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:47:35] local.INFO: Job 297 attempt 0/2.
+[2024-11-30 01:47:40] local.ERROR: Job 297 failed: This is a test exception
+[2024-11-30 01:47:41] local.INFO: Dispatching job 295.
+[2024-11-30 01:47:41] local.INFO: Starting job 295: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:47:41] local.INFO: Job 295 attempt 0/2.
+[2024-11-30 01:47:46] local.ERROR: Job 295 failed: This is a test exception
+[2024-11-30 01:47:47] local.INFO: Dispatching job 293.
+[2024-11-30 01:47:47] local.INFO: Starting job 293: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:47:47] local.INFO: Job 293 attempt 0/2.
+[2024-11-30 01:47:49] local.INFO: Killed job 293 with ID 293 PID 369557 after timeout .
+[2024-11-30 01:47:49] local.INFO: Dispatching job 299.
+[2024-11-30 01:47:49] local.INFO: Starting job 299: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:47:49] local.INFO: Job 299 attempt 0/5.
+[2024-11-30 01:47:52] local.ERROR: Job 293 failed: This is a test exception
+[2024-11-30 01:47:54] local.INFO: Job 299 completed.
+[2024-11-30 01:47:55] local.INFO: Dispatching job 298.
+[2024-11-30 01:47:55] local.INFO: Starting job 298: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:47:55] local.INFO: Job 298 attempt 0/1.
+[2024-11-30 01:48:00] local.INFO: Job 298 completed.
+[2024-11-30 01:48:01] local.INFO: Dispatching job 296.
+[2024-11-30 01:48:01] local.INFO: Starting job 296: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:48:01] local.INFO: Job 296 attempt 0/1.
+[2024-11-30 01:48:06] local.INFO: Job 296 completed.
+[2024-11-30 01:48:07] local.INFO: Dispatching job 292.
+[2024-11-30 01:48:07] local.INFO: Starting job 292: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:48:07] local.INFO: Job 292 attempt 1/3.
+[2024-11-30 01:48:12] local.ERROR: Job 292 failed: This is a test exception
+[2024-11-30 01:48:13] local.INFO: Dispatching job 297.
+[2024-11-30 01:48:13] local.INFO: Starting job 297: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:48:13] local.INFO: Job 297 attempt 1/2.
+[2024-11-30 01:48:18] local.ERROR: Job 297 failed: This is a test exception
+[2024-11-30 01:48:18] local.ERROR: Job 297 deleted after exceeding retry limit.
+[2024-11-30 01:48:19] local.INFO: Dispatching job 295.
+[2024-11-30 01:48:19] local.INFO: Starting job 295: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:48:19] local.INFO: Job 295 attempt 1/2.
+[2024-11-30 01:48:24] local.ERROR: Job 295 failed: This is a test exception
+[2024-11-30 01:48:24] local.ERROR: Job 295 deleted after exceeding retry limit.
+[2024-11-30 01:48:25] local.INFO: Dispatching job 300.
+[2024-11-30 01:48:25] local.INFO: Starting job 300: Tests\Unit\BackgroundService\Data\ClassA@method4Sleep.
+[2024-11-30 01:48:25] local.INFO: Job 300 attempt 0/1.
+[2024-11-30 01:48:30] local.INFO: Job 300 completed.
+[2024-11-30 01:48:40] local.INFO: Dispatching job 292.
+[2024-11-30 01:48:40] local.INFO: Starting job 292: Tests\Unit\BackgroundService\Data\ClassA@method6SleepThrowException.
+[2024-11-30 01:48:40] local.INFO: Job 292 attempt 2/3.
+[2024-11-30 01:48:45] local.ERROR: Job 292 failed: This is a test exception
+[2024-11-30 01:48:45] local.ERROR: Job 292 deleted after exceeding retry limit.
